@@ -1,0 +1,14 @@
+h1 {
+    font-size: larger;
+}
+body {
+    background-color: gainsboro;
+}
+button {
+    width: 200px;
+    height: 50px;
+  }
+input  {
+    width: 192px
+}
+
